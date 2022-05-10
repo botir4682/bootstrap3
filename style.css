@@ -1,0 +1,10 @@
+* {
+	font-family: Century Gothic;
+}
+body {
+	height: 1000px;
+}
+li:hover {
+	border: 2px solid black;
+	border-radius: 5px;
+}
